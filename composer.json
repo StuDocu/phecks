@@ -45,5 +45,7 @@
         "Juampi92\\Phecks\\PhecksServiceProvider"
       ]
     }
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
