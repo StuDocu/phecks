@@ -1,5 +1,5 @@
 {
-  "name": "juampi92/phecks",
+  "name": "studocu/phecks",
   "description": "A package to run custom PHP checks",
   "authors": [
     {
@@ -45,5 +45,7 @@
         "Juampi92\\Phecks\\PhecksServiceProvider"
       ]
     }
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
